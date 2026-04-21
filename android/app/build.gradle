@@ -28,14 +28,10 @@ android {
             keyPassword "audioshare"
             v1SigningEnabled true
             v2SigningEnabled true
-            v3SigningEnabled true
-            v4SigningEnabled true
         }
         debug {
             v1SigningEnabled true
             v2SigningEnabled true
-            v3SigningEnabled true
-            v4SigningEnabled true
         }
     }
 
