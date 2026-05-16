@@ -1,3 +1,5 @@
+# 此fork仅编译了新apk，exe程序请到原作者的仓库下载。
+
 # AudioShare - 将 Windows 音频实时分享到安卓设备
 
 [![image](https://img.shields.io/github/v/release/hehang0/AudioShare.svg?label=latest)](https://github.com/HeHang0/AudioShare/releases)
